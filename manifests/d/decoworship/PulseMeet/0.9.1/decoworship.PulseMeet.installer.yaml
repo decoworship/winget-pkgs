@@ -18,7 +18,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: PulseMeet
     Publisher: decoworship
-    DisplayVersion: 0.9.1
     ProductCode: '{8B6F3A21-4C5E-4E17-9A2D-1F0B7C4E9D33}_is1'
     UpgradeCode: '{8B6F3A21-4C5E-4E17-9A2D-1F0B7C4E9D33}'
 ManifestType: installer
